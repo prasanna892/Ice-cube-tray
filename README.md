@@ -9,7 +9,7 @@ Software used: fusion 360
 ## Output
 
 ### Cube shape 
-<img src="">
+<img src="https://github.com/prasanna892/Ice-cube-tray/blob/main/Tray1/Ice%20cube%20tray%20v1.png">
 
 ### Heart shape
 <img src="">
